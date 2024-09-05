@@ -81,6 +81,7 @@ else:
             "eip1153TransitionTimestamp": "0x0",
             "eip5656TransitionTimestamp": "0x0",
             "eip6780TransitionTimestamp": "0x0",
+            "eip2537TransitionTimestamp": "0x0",
             "depositContractAddress": data["deposit_contract_address"],
         },
         "genesis": {
